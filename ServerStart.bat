@@ -1,0 +1,1 @@
+C:\fivelifecommunity\FXServer.exe +exec server.cfg

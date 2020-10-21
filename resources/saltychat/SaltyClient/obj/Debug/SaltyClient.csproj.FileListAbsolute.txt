@@ -1,0 +1,10 @@
+C:\fivelife\resources\[system]\saltychat\SaltyClient\bin\Debug\SaltyClient.net.dll
+C:\fivelife\resources\[system]\saltychat\SaltyClient\bin\Debug\SaltyClient.net.pdb
+C:\fivelife\resources\[system]\saltychat\SaltyClient\bin\Debug\CitizenFX.Core.Client.dll
+C:\fivelife\resources\[system]\saltychat\SaltyClient\bin\Debug\Newtonsoft.Json.dll
+C:\fivelife\resources\[system]\saltychat\SaltyClient\bin\Debug\CitizenFX.Core.Client.xml
+C:\fivelife\resources\[system]\saltychat\SaltyClient\obj\Debug\SaltyClient.csprojAssemblyReference.cache
+C:\fivelife\resources\[system]\saltychat\SaltyClient\obj\Debug\SaltyClient.csproj.CoreCompileInputs.cache
+C:\fivelife\resources\[system]\saltychat\SaltyClient\obj\Debug\SaltyClient.csproj.CopyComplete
+C:\fivelife\resources\[system]\saltychat\SaltyClient\obj\Debug\SaltyClient.net.dll
+C:\fivelife\resources\[system]\saltychat\SaltyClient\obj\Debug\SaltyClient.net.pdb
